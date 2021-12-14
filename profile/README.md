@@ -10,9 +10,9 @@ If you want access to internal repositories, please read the following.
 
 ## INTERNAL REPOSITORY ACCESS REQUIREMENTS
 -------------------------------------------
-*1. You MUST not download the files, and send them to other people without our permission. If you do so, you will lose access to all Cake Eaters repositories.
-*2. Don't make useless commits that fix nothing. If you do, that's just being stupid. Please don't.
-*3. To attempt to get access, you have to be in the cakeDev Discord Server and go to the #request-repo-access channel. OPTIONAL: You can also connect your GitHub account to your Discord profile that way it's easier for me to add you to the repo. If you don't want to do that, you can dm me your username.
+* You MUST not download the files, and send them to other people without our permission. If you do so, you will lose access to all Cake Eaters repositories.
+* Don't make useless commits that fix nothing. If you do, that's just being stupid. Please don't.
+* To attempt to get access, you have to be in the cakeDev Discord Server and go to the #request-repo-access channel. OPTIONAL: You can also connect your GitHub account to your Discord profile that way it's easier for me to add you to the repo. If you don't want to do that, you can dm me your username.
 
 ## HOW TO BE ACCEPTED ONTO TEAM
 -----------------------------------
