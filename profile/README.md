@@ -2,20 +2,6 @@
 
 We are the Cake Eaters Development Team. We make games and programs.
 
-## POSITIONS
------------
-
-Project and Team Leads: cakeDev45
-Programmer: cakeDev45, Inovade
-Artists: cakeDev45, Inovade, Racc
-Repository Manager: cakeDev45
-Modelers: cakeDev45, Inovade
-Allow access to internal repositories: cakeDev45
-Writers: cakeDev45, Inovade
-Story Editor: cakeDev45
-Animation: cakeDev45
-Composer: POSITION OPEN!
-
 ## HOW TO CONTACT
 -----------------
 
@@ -24,9 +10,9 @@ If you want access to internal repositories, please read the following.
 
 ## INTERNAL REPOSITORY ACCESS REQUIREMENTS
 -------------------------------------------
-1. You MUST not download the files, and send them to other people without our permission. If you do so, you will lose access to all Cake Eaters repositories.
-2. Don't make useless commits that fix nothing. If you do, that's just being stupid. Please don't.
-3. To attempt to get access, you have to be in the cakeDev Discord Server and go to the #request-repo-access channel. OPTIONAL: You can also connect your GitHub account to your Discord profile that way it's easier for me to add you to the repo. If you don't want to do that, you can dm me your username.
+*1. You MUST not download the files, and send them to other people without our permission. If you do so, you will lose access to all Cake Eaters repositories.
+*2. Don't make useless commits that fix nothing. If you do, that's just being stupid. Please don't.
+*3. To attempt to get access, you have to be in the cakeDev Discord Server and go to the #request-repo-access channel. OPTIONAL: You can also connect your GitHub account to your Discord profile that way it's easier for me to add you to the repo. If you don't want to do that, you can dm me your username.
 
 ## HOW TO BE ACCEPTED ONTO TEAM
 -----------------------------------
