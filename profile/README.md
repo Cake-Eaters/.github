@@ -1,6 +1,6 @@
 # Cake Eaters
 
-We are the Cake Eaters Development Team. The team behind Nordisphere and Fraction Labs.
+We are the Cake Eaters Development Team. We are the team behind Nordisphere, and Fraction Labs. (And many more projects in the future!)
 
 ## HOW TO CONTACT
 -----------------
