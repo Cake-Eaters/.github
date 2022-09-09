@@ -13,7 +13,7 @@ Please email us at cake.eaters.business@gmail.com for any questions, or to join 
 ## GAMES
 ---------
 
-We use itch.io as our "store". Both FL and NS will be free forever, because these are our first games, so we know they'll be bad. We don't want to offer you a bad game for like 15 bucks.
+All of our games are exclusive to itch.io for the time being.
 
 https://cake-eaters.itch.io/
 
