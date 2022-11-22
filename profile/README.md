@@ -13,7 +13,10 @@ Please email us at cake.eaters.business@gmail.com for any questions, or to join 
 ## GAMES
 ---------
 
-All of our games are exclusive to itch.io for the time being.
+All of our games are exclusive to itch.io for the time being. However, our next project will be a GameJolt exclusive, and going forward we will be releasing our games on GameJolt.
+
+
+https://gamejolt.com/@CakeEaters
 
 https://cake-eaters.itch.io/
 
