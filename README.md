@@ -1,1 +1,1 @@
-GitHub profile file
+GitHub profile settings
