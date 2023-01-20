@@ -20,6 +20,4 @@ https://gamejolt.com/@CakeEaters
 
 https://cake-eaters.itch.io/
 
-https://cake-eaters.itch.io/fraction-labs
-
 https://cake-eaters.itch.io/nordisphere
