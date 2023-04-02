@@ -8,7 +8,7 @@ We are the Cake Eaters Development Team. We are the team behind Nordisphere, Fra
 Please email us at cake.eaters.business@gmail.com for any questions regarding our games, or if you would like to be apart of the team.
 
 
-
+Optionally, you could contact Cake on Discord at: Cake#3354 if you prefer it. 
 
 ## GAMES
 ---------
