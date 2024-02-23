@@ -16,4 +16,5 @@ Optionally, you could contact us on Discord whenever our server goes live.
 All of our games are exclusive to itch.io for the time being. All of our original games will be released on itch.io under the Cake Eaters Development Team account.
 
 https://cake-eaters.itch.io/
+
 https://cake-eaters.itch.io/fraction-labs
