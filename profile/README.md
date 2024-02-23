@@ -1,6 +1,6 @@
 # Cake Eaters
 
-We are the Cake Eaters Development Team. We are the team behind Nordisphere, and Project: Hello Neighbor 2 (and many more projects in the future!)
+We are the Cake Eaters Development Team. We are the team behind Fraction Labs.
 
 ## HOW TO CONTACT
 -----------------
@@ -13,13 +13,7 @@ Optionally, you could contact us on Discord whenever our server goes live.
 ## GAMES
 ---------
 
-All of our games are exclusive to itch.io for the time being. However, with that being said, our current project, Project: Hello Neighbor 2 is a GameJolt exclusive which means it will NOT release on itch.io. All of our original games will be released on itch.io under the Cake Eaters Development Team account.
-
-
-https://gamejolt.com/@CakeEaters
+All of our games are exclusive to itch.io for the time being. All of our original games will be released on itch.io under the Cake Eaters Development Team account.
 
 https://cake-eaters.itch.io/
-
-https://cake-eaters.itch.io/nordisphere
-
-https://gamejolt.com/games/project-hn2/769806
+https://cake-eaters.itch.io/fraction-labs
