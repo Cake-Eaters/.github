@@ -1,1 +1,1 @@
-GitHub profile settings for the Cake Eaters organization.
+GitHub profile readme for Cake Eaters.
