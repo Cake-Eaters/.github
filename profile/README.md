@@ -18,7 +18,7 @@ Project: HN2 will launch on GameJolt.
 
 [Follow our Itch.io account](https://cake-eaters.itch.io/)
 
-[Follow Fractio Labs on Itch.io](https://cake-eaters.itch.io/fraction-labs)
+[Follow Fraction Labs on Itch.io](https://cake-eaters.itch.io/fraction-labs)
 
 [Follow our GameJolt account](https://gamejolt.com/@CakeEaters)
 
