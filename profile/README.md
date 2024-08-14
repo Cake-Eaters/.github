@@ -1,12 +1,10 @@
-# Cake Eaters
+# Welcome to the Cake Eaters GitHub Organization
 
 We are the Cake Eaters Development Team. We are the team behind Fraction Labs.
 
 ## HOW TO CONTACT
 
-
-Please email us at cake.eaters.business@gmail.com for any questions regarding our games, or if you would like to be apart of the team.
-
+Contact email is not open at this time.
 
 Optionally, you could contact us on Discord once the Official Server goes live.
 
