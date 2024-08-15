@@ -18,6 +18,4 @@ Project: HN2 will launch on GameJolt.
 
 [Follow Fraction Labs on Itch.io](https://cake-eaters.itch.io/fraction-labs)
 
-[Follow our GameJolt account](https://gamejolt.com/@CakeEaters)
-
 [Follow Project: HN2](https://gamejolt.com/games/project-hn2/769806)
