@@ -12,10 +12,7 @@ Optionally, you could contact us on Discord once the Official Server goes live.
 
 
 All of our original games will be released on itch.io under the Cake Eaters Development Team account.
-Project: HN2 will launch on GameJolt.
 
 [Follow our Itch.io account](https://cake-eaters.itch.io/)
 
 [Follow Fraction Labs on Itch.io](https://cake-eaters.itch.io/fraction-labs)
-
-[Follow Project: HN2](https://gamejolt.com/games/project-hn2/769806)
