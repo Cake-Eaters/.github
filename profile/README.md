@@ -13,7 +13,7 @@ Be on the look out for when our Discord server opens. That will be the best way 
 
 All of our original games will be released on itch.io under the Cake Eaters Development Team account.
 
-[Follow our Itch.io account](https://cake-eaters.itch.io/)
+[Follow us on Itch.io account](https://cake-eaters.itch.io/)
 
 [Follow Fraction Labs on Itch.io](https://cake-eaters.itch.io/fraction-labs)
 
