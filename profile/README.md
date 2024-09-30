@@ -6,7 +6,7 @@ We are the Cake Eaters Development Team. We are the team behind Fraction Labs.
 
 Contact email is not open at this time.
 
-Optionally, you could contact us on Discord once the Official Server goes live.
+Be on the look out for when our Discord server opens. That will be the best way to contact us for now.
 
 ## GAMES
 
@@ -16,3 +16,4 @@ All of our original games will be released on itch.io under the Cake Eaters Deve
 [Follow our Itch.io account](https://cake-eaters.itch.io/)
 
 [Follow Fraction Labs on Itch.io](https://cake-eaters.itch.io/fraction-labs)
+[Follow us on X (Formerly Twitter)](https://x.com/cake_eaters_dev)
