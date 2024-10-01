@@ -17,4 +17,9 @@ All of our original games will be released on itch.io under the Cake Eaters Deve
 
 [Follow Fraction Labs on Itch.io](https://cake-eaters.itch.io/fraction-labs)
 
+## OTHER INFORMATION
+We are mainly on Twitter, so you can follow us there.
+We will also be on Discord as well so be on the look out for when the server goes live, we will make sure to inform you guys.
+
+
 [Follow us on X (Formerly Twitter)](https://x.com/cake_eaters_dev)
