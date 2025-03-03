@@ -11,11 +11,11 @@ Be on the look out for when our Discord server opens. That will be the best way 
 ## GAMES
 
 
-All of our original games will be released on itch.io under the Cake Eaters Development Team account.
+All of our original games will be released on GameJolt under the Cake Eaters account.
 
-[Follow us on Itch.io account](https://cake-eaters.itch.io/)
+[Follow us on GameJolt](https://gamejolt.com/@CakeEaters)
 
-[Follow Fraction Labs on Itch.io](https://cake-eaters.itch.io/fraction-labs)
+[Follow Fraction Labs on GameJolt](https://gamejolt.com/games/fraction-labs/966686)
 
 ## OTHER INFORMATION
 We are mainly on Twitter, so you can follow us there.
